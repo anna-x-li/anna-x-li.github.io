@@ -33,6 +33,12 @@ WORKDIR /srv/jekyll
 RUN gem install jekyll bundler
 
 RUN bundle install --no-cache
+
+# test
+
+RUN gem 'jekyll-watch'
+RUN bundle
+
 # && rm -rf /var/lib/gems/3.1.0/cache
 EXPOSE 8080
 

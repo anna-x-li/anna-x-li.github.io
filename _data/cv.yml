@@ -2,96 +2,102 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Anna X. Li
+    - name: Email
+      value: al3792@gmail.com
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: BS in Engineering and Applied Sciences
+      institution: Caltech, Pasadena CA
+      year: 2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
 
-- title: Experience
+# - title: Skills and Coursework
+#   type: list
+#   contents:
+#     - <u>Skills:</u> Python, R, Java, MATLAB, Mathematica, Linux, Latex
+#     - <u>Coursework:</u> Probability Models, Bayesian Statistics, Learning Systems, Applied Linear Algebra, Economics of Sustainable Development, Intro to Finance, Politics and Regulation, Sustainable Engineering
+
+- title: Work and Research
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Energy Analytics Intern
+      institution: BrightNight LLC
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Performed data analytics and optimization, employing Python for statistical analysis and visualization to
+          enhance decision-support for rewnewable energy projects
+        - Developed methods for assessing risk and revenue uncertainty, contributing to more accurate forecasting and
+          improved planning for customer cases
+
+    - title: Research Assistant
+      institution: Carnegie Institution for Science, Stanford CA
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Used macro-scale energy modeling to analyze value of different energy storage portfolios in renewable energy systems
+        - Conducted a techno-economic analysis of low-carbon storage technologies on the market
+        - Published study demonstrating the dual role of long-duration energy storage in balancing both long-term and short-term energy needs
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Researcher
+      institution: Carnegie Institution for Science, Stanford CA
+      year: 2021 - 2022
       description:
+        - Conducted electrochemistry research to develop sustainable materials for hydrogen fuel production
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="http://testing.test123.org/xx3/landing.gsp">The influence of regional geophysical resource variability on the value of single- and multi-storage technology portfolios</a>
+      year: July 2024
+      description:
+        - <i>ACS Environmental Science and Technology</i>
+        - <b>Li, A. X.</b>; Virguez, E. A.; Dowling, J. A.; Wongel, A.; Covelli, D.; Reich, N. D.; Ruggles, T. R.; Lewis, N. S.; Caldeira, K.
+
+    - title: <a href="https://iopscience.iop.org/article/10.1088/2753-3751/ad58e5">Opportunities and constraints of hydrogen energy storage systems</a>
+      year: June 2024
+      description:
+        - "<i>Environmental Research: Energy</i>"
+        - Dowling, J. A.; Ruggles, T. R.; Virguez, E. A.; Reich, N. D.; Ifkovits, Z. P.; Davis, S. J.; <b>Li, A. X.</b>; Kennedy, K.; Caldeira, K.; Lewis, N. S.
+  
+    - title: <a href="https://pubs.acs.org/doi/10.1021/acsaem.4c00135">Catalysis of the Oxygen-Evolution Reaction in 1.0 M Sulfuric Acid by Manganese Antimonate Films Synthesized via Chemical Vapor Deposition</a>
+      year: March 2024
+      description:
+        - "<i>ACS Applied Energy Materials</i>"
+        - Dowling, J. A.; Ifkovits, Z. P.; Carim, A. I.; Evans, J. M.; Swint, M. C., Ye, A. Z.; Richter, M. H.; <b>Li, A. X.</b>; Lewis, N. S.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - NSF GRFP
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Poster Finalist at the 2022 INFORMS Annual Meeting
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
