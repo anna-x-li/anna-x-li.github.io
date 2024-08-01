@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi everyone! I'm Anna, an energy systems researcher and incoming PhD student at Princeton University. My research is focused on using optimization-based methods to guide climate and energy policy.
