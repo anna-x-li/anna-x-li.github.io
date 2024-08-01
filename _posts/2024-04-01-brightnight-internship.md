@@ -8,9 +8,9 @@ categories:
 thumbnail: assets/img/brightnight_post/LinkedIn_Top50_BN_Logo.jpg
 ---
 
-During my gap year, I had the opportunity to intern at <a href="https://brightnightpower.com/">BrightNight</a>, a global renewable power company providing clean and reliable power solutions for utility, commercial, and industry customers. BrightNight is playing one of the most important roles in the clean energy transition - getting wind, solar, and energy storage projects on the grid, providing critical capacity and load-balancing to maintain electricity reliability, while also creating a multitude of clean energy jobs.
+During my gap year, I had the opportunity to intern at [BrightNight](https://brightnightpower.com/), a global renewable power company providing clean and reliable power solutions for utility, commercial, and industry customers. BrightNight is playing one of the most important roles in the clean energy transition - getting wind, solar, and energy storage projects on the grid, providing critical capacity and load-balancing to maintain electricity reliability, while also creating a multitude of clean energy jobs.
 
-What drew me to BrightNight is their emphasis on developing state-of-the-art data analytics and optimization techniques, positioning them at the forefront of the energy industry. One of BrightNight’s key differentiators is <a href="https://www.prnewswire.com/news-releases/brightnight-unveils-poweralpha-artificial-intelligence-software-platform-at-the-ai-powering-the-new-energy-era-summit-in-washington-dc-302119453.html">PowerAlpha™</a>, a fully in-house developed platform that leverages "AI, data analytics, and cloud computing to model, optimize, and operate solar, wind, and energy storage plants with industry-leading economics." 
+What drew me to BrightNight is their emphasis on developing state-of-the-art data analytics and optimization techniques, positioning them at the forefront of the energy industry. One of BrightNight’s key differentiators is [PowerAlpha™](https://www.prnewswire.com/news-releases/brightnight-unveils-poweralpha-artificial-intelligence-software-platform-at-the-ai-powering-the-new-energy-era-summit-in-washington-dc-302119453.html), a fully in-house developed platform that leverages "AI, data analytics, and cloud computing to model, optimize, and operate solar, wind, and energy storage plants with industry-leading economics." 
 
 <hr>
 
@@ -18,11 +18,11 @@ At BrightNight, I was part of the Energy Analytics team, the core team responsib
 
 #### Check out some of the cool projects I worked on at BrightNight:
 
-- <a href="https://brightnightpower.com/starfire-project/">Starfire</a> - a 800 MW solar and storage project, **transforming one of the U.S.’s largest coal mines into a renewable power project** that meets the region’s energy needs and creates hundreds of local jobs
-- <a href="https://brightnightpower.com/what-we-do/our-projects/box-canyon/">Box Canyon</a> - a 300 MW solar plant in Pinal County, Arizona, which can produce enough electricity annually to power 77,000 Arizona homes and business, **offsetting approximately 600 metric tons of CO2 emissions every hour**
-- <a href="https://brightnightpower.com/greenwater/">Greenwater</a> - a 200 MW Li-ion battery system in Pierce County, Washington that optimizes existing transmission infrastructure and provides critical load-balancing capabilities
-- <a href="https://brightnightpower.com/mortlake-energy-hub-community/">Mortlake</a> - a hybrid 360 MW solar plant and 600 MW battery storage system in Victoria, Australia
-- <a href="https://brightnightpower.com/three-sisters/">Three Sisters</a> - a 300 MW solar plant and 300 MW of battery storage in Cochise County, Arizona
+- [Starfire](https://brightnightpower.com/starfire-project/) - a 800 MW solar and storage project, **transforming one of the largest coal mines in the U.S. into a renewable power project** that meets the region’s energy needs and creates hundreds of local jobs
+- [Box Canyon](https://brightnightpower.com/what-we-do/our-projects/box-canyon/) - a 300 MW solar plant in Pinal County, Arizona, which can produce enough electricity annually to power 77,000 Arizona homes and business, **offsetting approximately 600 metric tons of CO2 emissions every hour**
+- [Greenwater](https://brightnightpower.com/greenwater/) - a 200 MW Li-ion battery system in Pierce County, Washington that optimizes existing transmission infrastructure and provides critical load-balancing capabilities
+- [Mortlake](https://brightnightpower.com/mortlake-energy-hub-community/) - a hybrid 360 MW solar plant and 600 MW battery storage system in Victoria, Australia
+- [Three Sisters](https://brightnightpower.com/three-sisters/) - a 300 MW solar plant and 300 MW of battery storage in Cochise County, Arizona
 
 <div class="row mt-5">
     <div class="col-sm-5">
